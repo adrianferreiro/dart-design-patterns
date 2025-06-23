@@ -24,8 +24,12 @@ Este repositorio contiene implementaciones de los patrones de diseño más conoc
 
 Asegurate de tener Dart instalado:
 
-```bash
-dart run bin/creational/builder/builder.dart
+```
+dart run bin/creational/builder.dart
+```
+
+```
+dart run bin/creational/factory_method.dart
 ```
 
 📚 Recursos útiles
