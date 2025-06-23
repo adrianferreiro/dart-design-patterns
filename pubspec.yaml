@@ -1,0 +1,19 @@
+name: dart_design_patterns
+description: >
+  Ejemplos de patrones de diseño implementados en Dart, organizados por categoría (creacional, estructural, comportamental).
+version: 1.0.0
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+executables:
+  builder: bin/creational/builder/main.dart
+
+# Puedes agregar más ejecutables si querés ejecutarlos con: dart run builder
+
+# Opcional: dependencias para mejorar logs, pruebas, etc.
+dependencies:
+  path: ^1.9.0
+
+dev_dependencies:
+  lints: ^3.0.0
+  test: ^1.25.0
