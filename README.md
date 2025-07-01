@@ -32,6 +32,14 @@ dart run bin/creational/builder.dart
 dart run bin/creational/factory_method.dart
 ```
 
+```
+dart run bin/creational/abstract_factory.dart
+```
+
+```
+dart run bin/creational/prototype.dart
+```
+
 📚 Recursos útiles
 
 https://refactoring.guru/
